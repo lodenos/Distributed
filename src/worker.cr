@@ -1,0 +1,2 @@
+class Distributed::Worker
+end

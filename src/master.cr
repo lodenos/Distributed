@@ -1,0 +1,2 @@
+class Distributed::Master
+end
